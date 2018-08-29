@@ -1,0 +1,5 @@
+[
+	{ "name": "mit_getWork", "params": [], "order": [], "returns": []},
+	{ "name": "mit_submitWork", "params": ["", "", ""], "order": [], "returns": true},
+	{ "name": "mit_submitHashrate", "params": ["", ""], "order": [], "returns": true}
+]
