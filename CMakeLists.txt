@@ -61,8 +61,8 @@ find_package(libjson-rpc-cpp CONFIG REQUIRED)
 hunter_add_package(CppNetlibUri)
 find_package(CppNetlibUri CONFIG REQUIRED)
 
-hunter_add_package(mitash)
-find_package(mitash CONFIG REQUIRED)
+hunter_add_package(ethash)
+find_package(ethash CONFIG REQUIRED)
 
 configureProject()
 
